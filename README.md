@@ -11,3 +11,6 @@ Your conversations are automatically saved locally, allowing you to continue dis
 Experience natural, flowing conversations with intelligent responses and real-time typing indicators.
 
 Customize your experience with dark mode and a clean, modern interface designed for productivity.
+
+
+ENjoy ---> https://stellar-piroshki-0ed488.netlify.app/
